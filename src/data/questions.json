@@ -1,0 +1,75 @@
+{
+  "instructions": [
+    "Photos will be displayed a few seconds",
+    "Select the characters who were presents in the image",
+    "In fact, it is just a sample react project. We don't mind the results."
+  ],
+  "questions": [
+    {
+      "potentialAnswers": [
+        "Homer",
+        "Marge",
+        "Barney",
+        "Flanders",
+        "Seymour",
+        "Bart",
+        "Lisa",
+        "Krusty"
+      ],
+      "answers": ["Homer", "Marge", "Bart", "Lisa"],
+      "imageUrl": "../img/simpsonFamily.jpg",
+      "userAnswers": [],
+      "userTime": 0,
+      "completed": false,
+      "isAnswersOk": false
+    },
+    {
+      "potentialAnswers": [
+        "Obi Wan",
+        "Annakin",
+        "Palpatine",
+        "Jar Jar Binks",
+        "Leïa",
+        "Luke"
+      ],
+      "answers": ["Obi Wan", "Annakin"],
+      "imageUrl": "../img/ObiWan-Annakin.jpg",
+      "userAnswers": [],
+      "userTime": 0,
+      "completed": false,
+      "isAnswersOk": false
+    },
+    {
+      "potentialAnswers": [
+        "Mickey",
+        "Donald",
+        "Goofy",
+        "Uncle Scrooge",
+        "Minnie",
+        "Daisy"
+      ],
+      "answers": ["Mickey", "Minnie"],
+      "imageUrl": "../img/mickey-minnie.png",
+      "userAnswers": [],
+      "userTime": 0,
+      "completed": false,
+      "isAnswersOk": false
+    },
+    {
+      "potentialAnswers": [
+        "Mario",
+        "Luigi",
+        "Bowser",
+        "Toad",
+        "Peach",
+        "Yoshi"
+      ],
+      "answers": ["Mario", "Luigi"],
+      "imageUrl": "../img/mario-luigi.png",
+      "userAnswers": [],
+      "userTime": 0,
+      "completed": false,
+      "isAnswersOk": false
+    }
+  ]
+}
