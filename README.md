@@ -1,4 +1,4 @@
-# React Sample Demo
+# React Sample App
 
 This sample react project is for beginners who wants to start with React.
 It includes the fundamentals of React like simple and class components, state, props, and submitting form data.
